@@ -1,22 +1,23 @@
 ---
 layout: post
-title:  "What is Jekyll!"
-date:   2014-07-28 22:48:45
+title:  "Мифы «возвращения» Крыма"
+date:   2021-07-28 22:48:45
 description: Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
 categories:
 - blog
 - jekyll
 ---
+Согласно уверениям российской пропаганды, Крым законно и мирно «отделился» от Украины после «переворота» на Майдане и прихода к власти «фашистской хунты». Однако в этой схеме не нашлось места самой России и ее действиям весной 2014 года.
 
-[Jekyll][jekyll] is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. Here is a little quote from the official website:
+Анализ реальных фактов показывает, что, во-первых, Крым не «отделился» от Украины, а был сначала оккупирован российскими войсками, а затем аннексирован. Во-вторых, Кремль начал спецоперацию по захвату полуострова 20 февраля – еще до появления в Киеве новой власти. И в-третьих, украинское государство в результате Революции Достоинства не исчезло с карты, а у крымских властей не было полномочий на односторонний выход из состава Украины.
 
-> It takes a template directory containing raw text files in various formats, runs it through [Markdown][markdown] (or [Textile][textile]) and Liquid converters, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind [GitHub Pages][github-pages], which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
-> - jekyllrb.com
+Предлагаю вашему вниманию девять наиболее распространенных кремлевских мифов, оправдывающих аннексию Крыма, и их разоблачение.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+Миф 1. В Крыму угнетали русский язык и культуру, а Киев проводил политику насильственной украинизации
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
-[markdown]: http://daringfireball.net/projects/markdown/
-[textile]: http://redcloth.org/textile
-[github-pages]: http://pages.github.com/
+Во-первых, согласно ст. 10 Конституции Автономной Республики Крым, «Русский язык как язык большинства населения в Автономной Республике Крым и приемлемый для межнационального общения используется во всех сферах общественной жизни».
+
+В вузах Крыма только 5% дисциплин преподавали на украинском языке, остальные – на русском
+Во-вторых, в Крыму к 2013 году образование на русском языке получали 89,4% школьников, в то время как на украинском и крымскотатарском – 7,3% и 3,1% соответственно. Из почти 600 школ в Крыму к моменту его захвата Россией лишь 14 были с крымскотатарским языком обучения, и только 7 – с украинским. Из более 500 дошкольных учреждений украиноязычными были 11, на крымскотатарском обучение вели лишь в одном. В высших учебных заведениях Крыма только 5% дисциплин преподавали на украинском языке, остальные – на русском. Доля студентов вузов, обучавшихся исключительно на русском языке, для АРК составляла 83,1%, а для Севастополя – 86,7%. Для техникумов и колледжей этот показатель в АРК составил 94,5%, в Севастополе – 100%. Лишь в двух вузах Крыма готовили учителей крымскотатарского языка и литературы.
+
+продолжение - https://ru.krymr.com/a/28338169.html
